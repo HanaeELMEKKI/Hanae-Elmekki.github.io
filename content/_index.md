@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2025-11-04
 type: landing
 
 design:
@@ -34,11 +34,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a PhD candidate at Concordia University in Montréal, Canada.
+        My research focuses on the application of artificial intelligence to cardiovascular diseases.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        I'm deeply interested in improving access to medical care in rural and underserved areas, and I’m passionate about contributing to solutions that make healthcare accessible everywhere and for everyone.
     design:
       columns: '1'
   - block: collection

@@ -61,7 +61,7 @@ education:
     date_end: 2028-12-01
     summary: |
       Working on the development of a novel solution for autonomous cardiac ultrasound imaging system for scanning using Deep Reinforcement Learning algorithms.
-  - area: master of Applied Science in Quality Systems Engineering (Fast-track to Ph.D.)
+  - area: Master of Applied Science in Quality Systems Engineering (Fast-track to Ph.D.)
     institution: Concordia University, Canada
     icon: ""
     date_start: 2023-01-01

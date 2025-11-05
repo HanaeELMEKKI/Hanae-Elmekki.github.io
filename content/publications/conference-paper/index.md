@@ -1,90 +1,71 @@
 ---
-title: 'An example conference paper'
+title: 'Intermittent Monitoring of Cardiovascular Health via Intelligent & Remotely Operated Robotic Cardiac Ultrasound System for Supporting Flight Surgeons'
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Amanda Spilkin
+  - Ehsan Zakeri
+  - Hanae Elmekki
+  - Ahmed Alagha
+  - Hani Sami
+  - Antonella Mariel Zanuttini
+  - Lyes Kadem
+  - Jamal Bentahar
+  - Phillippe Pibarot
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+author_notes: []
 
-date: '2013-07-01T00:00:00Z'
+date: '2024-01-01T00:00:00Z'
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+# Schedule page publish date
+publishDate: '2025-10-30T00:00:00Z'
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+# Publication type
+publication_types: ['article-journal']
 
-# Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+# Publication name and short name
+publication: In *Aerospace Medicine & Human Performance*
+publication_short: *Aero Med Hum Perform*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: |
+  This study presents an intelligent and remotely operated robotic cardiac ultrasound system designed to enable intermittent monitoring of cardiovascular health, with particular focus on supporting flight surgeons in space and aviation medicine contexts. The system integrates advanced automation, teleoperation capabilities, and real-time cardiovascular assessment tools to enhance diagnostic accuracy and accessibility in remote or extreme environments.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Intelligent robotic ultrasound system for remote cardiovascular monitoring to support flight surgeons.
 
 tags:
-  - Large Language Models
+  - Cardiovascular Health
+  - Robotic Ultrasound
+  - Telemedicine
+  - Aerospace Medicine
+  - AI in Healthcare
 
-# Display this page in the Featured widget?
 featured: true
 
-# Standard identifiers for auto-linking
 hugoblox:
   ids:
-    doi: 10.5555/123456
+    doi: 10.5555/123456  # Replace with real DOI if available
 
-# Custom links
 links:
   - type: pdf
-    url: ""
+    url: "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=23756314&AN=178876183"
   - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
+    url: ""
   - type: dataset
-    url: https://github.com/HugoBlox/hugo-blox-builder
+    url: ""
   - type: slides
-    url: https://www.slideshare.net/
+    url: ""
   - type: source
-    url: https://github.com/HugoBlox/hugo-blox-builder
+    url: ""
   - type: video
-    url: https://youtube.com
+    url: ""
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-> [!NOTE]
-> Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-> [!NOTE]
-> Create your slides in Markdown - click the _Slides_ button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
