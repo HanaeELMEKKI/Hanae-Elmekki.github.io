@@ -30,6 +30,6 @@ events:
     date_start: "2025-06-02T10:00:00Z"
     date_end: ""
     all_day: false
-    summary: "Co-founded with Amanda Spilkin under Dr. Lyes Kadem. Focus on promoting awareness of medical access in remote or ext
+    summary: "Co-founded with Amanda Spilkin under Dr. Lyes Kadem. Focus on promoting awareness of medical access in remote or extreme environments."
 
 ---
