@@ -25,8 +25,8 @@ publishDate: '2025-10-30T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and short name
-publication: In *Aerospace Medicine & Human Performance*
-publication_short: *Aero Med Hum Perform*
+publication: In "*Aerospace Medicine & Human Performance*"
+publication_short: "*Aero Med Hum Perform*"
 
 abstract: |
   This study presents an intelligent and remotely operated robotic cardiac ultrasound system designed to enable intermittent monitoring of cardiovascular health, with particular focus on supporting flight surgeons in space and aviation medicine contexts. The system integrates advanced automation, teleoperation capabilities, and real-time cardiovascular assessment tools to enhance diagnostic accuracy and accessibility in remote or extreme environments.
