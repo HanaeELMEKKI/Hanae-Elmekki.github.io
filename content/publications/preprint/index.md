@@ -31,3 +31,5 @@ publication_short: "arXiv:2511.00114"
 
 abstract: |
   Cardiac ultrasound (US) is among the most widely used diagnostic tools in cardiology for assessing heart health, but its effectiveness is limited by operator dependence, time constraints, and human error. The shortage of trained professionals, especially in remote areas, further restricts access. These issues underscore
+  
+---
